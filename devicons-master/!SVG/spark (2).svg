@@ -1,0 +1,56 @@
+1WhvvA7GZp4EHJLcpm8KDIJyc=" PayloadSize="20427" Path="FeaturesOnDemand\fr-ca\baseless\Microsoft-Windows-StorageManagement-FoD-Package~31bf3856ad364e35~wow64~fr-ca~.cab" PayloadType="ExpressCab" />
+        <PayloadItem PayloadHash="MyYHELSNjhfVu9noMb70PxlxeT1E4wAUXaUy0iZSYhU=" PayloadSize="140713" Path="FeaturesOnDemand\fr-ca\baseless\Microsoft-Windows-StorageManagement-FoD-Package~31bf3856ad364e35~wow64~fr-ca~.psf" PayloadType="ExpressPSF" />
+      </Payload>
+    </Package>
+    <Package ID="Microsoft-Windows-StorageMigrationService-Management-Tools-FOD-Package~31bf3856ad364e35~AMD64~fr-ca~" InstalledSize="61205" Version="10.0.17763.1">
+      <SatelliteInfo>
+        <ApplyToInfo>
+          <ApplyTo Type="language" Value="fr-ca" />
+        </ApplyToInfo>
+      </SatelliteInfo>
+      <Payload>
+        <PayloadItem PayloadHash="IxlNi5lP9eTDPB9eWTHRIgyDCENkp/qzd76u0fQywtU=" PayloadSize="19005" Path="FeaturesOnDemand\fr-ca\baseless\Microsoft-Windows-StorageMigrationService-Management-Tools-FOD-Package~31bf3856ad364e35~AMD64~fr-ca~.cab" PayloadType="ExpressCab" />
+        <PayloadItem PayloadHash="cpBlqA67eFvYS0hcq/Y6PmHA1PB08lFrBt2b7UuDng4=" PayloadSize="74290" Path="FeaturesOnDemand\fr-ca\baseless\Microsoft-Windows-StorageMigrationService-Management-Tools-FOD-Package~31bf3856ad364e35~AMD64~fr-ca~.psf" PayloadType="ExpressPSF" />
+      </Payload>
+    </Package>
+    <Package ID="Microsoft-Windows-StorageReplica-Tools-FoD-Package~31bf3856ad364e35~AMD64~fr-ca~" InstalledSize="405935" Version="10.0.17763.1">
+      <SatelliteInfo>
+        <ApplyToInfo>
+          <ApplyTo Type="language" Value="fr-ca" />
+        </ApplyToInfo>
+      </SatelliteInfo>
+      <Payload>
+        <PayloadItem PayloadHash="Z4+JNahuu9dxzAU9NiqZhlOCAjzmPp2EvUHqQ68u+4Q=" PayloadSize="19171" Path="FeaturesOnDemand\fr-ca\baseless\Microsoft-Windows-StorageReplica-Tools-FoD-Package~31bf3856ad364e35~AMD64~fr-ca~.cab" PayloadType="ExpressCab" />
+        <PayloadItem PayloadHash="3xnLUEtnNCWfx4eMKAKokJ9h2uobVkrqK1naCobxFdY=" PayloadSize="118157" Path="FeaturesOnDemand\fr-ca\baseless\Microsoft-Windows-StorageReplica-Tools-FoD-Package~31bf3856ad364e35~AMD64~fr-ca~.psf" PayloadType="ExpressPSF" />
+      </Payload>
+    </Package>
+    <Package ID="Microsoft-Windows-SystemInsights-Management-Tools-FOD-Package~31bf3856ad364e35~AMD64~fr-ca~" InstalledSize="44477" Version="10.0.17763.1">
+      <SatelliteInfo>
+        <ApplyToInfo>
+          <ApplyTo Type="language" Value="fr-ca" />
+        </ApplyToInfo>
+      </SatelliteInfo>
+      <Payload>
+        <PayloadItem PayloadHash="8g62eSYXx1e7sVQXSThwB2xLKizMUa43Xp1ZLc13fUM=" PayloadSize="18995" Path="FeaturesOnDemand\fr-ca\baseless\Microsoft-Windows-SystemInsights-Management-Tools-FOD-Package~31bf3856ad364e35~AMD64~fr-ca~.cab" PayloadType="ExpressCab" />
+        <PayloadItem PayloadHash="Z1QR0mcdajOVOAUlZ/DCefYNY9gPrHCvQbsBob7tlsg=" PayloadSize="70726" Path="FeaturesOnDemand\fr-ca\baseless\Microsoft-Windows-SystemInsights-Management-Tools-FOD-Package~31bf3856ad364e35~AMD64~fr-ca~.psf" PayloadType="ExpressPSF" />
+      </Payload>
+    </Package>
+    <Package ID="Microsoft-Windows-VolumeActivation-Tools-FoD-Package~31bf3856ad364e35~AMD64~fr-ca~" InstalledSize="228704" Version="10.0.17763.1">
+      <SatelliteInfo>
+        <ApplyToInfo>
+          <ApplyTo Type="language" Value="fr-ca" />
+        </ApplyToInfo>
+      </SatelliteInfo>
+      <Payload>
+        <PayloadItem PayloadHash="E0KqmavAwwUXbykT3dN//6z1BARGcOznpzNPuzIA2o4=" PayloadSize="18875" Path="FeaturesOnDemand\fr-ca\baseless\Microsoft-Windows-VolumeActivation-Tools-FoD-Package~31bf3856ad364e35~AMD64~fr-ca~.cab" PayloadType="ExpressCab" />
+        <PayloadItem PayloadHash="mWCe2cb9t/Ig9Rhid1vcquakv4KQB7uJfTUcjtz3oFQ=" PayloadSize="181684" Path="FeaturesOnDemand\fr-ca\baseless\Microsoft-Windows-VolumeActivation-Tools-FoD-Package~31bf3856ad364e35~AMD64~fr-ca~.psf" PayloadType="ExpressPSF" />
+      </Payload>
+    </Package>
+    <Package ID="Microsoft-Windows-WMI-SNMP-Provider-Client-Package~31bf3856ad364e35~AMD64~fr-ca~" InstalledSize="57392" Version="10.0.17763.1">
+      <SatelliteInfo>
+        <ApplyToInfo>
+          <ApplyTo Type="language" Value="fr-ca" />
+        </ApplyToInfo>
+      </SatelliteInfo>
+      <Payload>
+        <PayloadItem PayloadHash="lddtASwHQjkbVd3aCH/Ga8V/0nH85xIeaLyn3lnG7ck="
